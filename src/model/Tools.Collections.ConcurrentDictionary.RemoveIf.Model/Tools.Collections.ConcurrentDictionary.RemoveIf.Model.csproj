@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>cccc1808</Authors>
+    <PackageProjectUrl>https://github.com/cccc1808/Tools.Collections.ConcurrentDictionary.RemoveIf</PackageProjectUrl>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+
+</Project>
