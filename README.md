@@ -1,8 +1,8 @@
-# Tools.Collections.ConcurrentDictionary.RemoveIf
+# New Document# Tools.Collections.ConcurrentDictionary.RemoveIf
 ## Description
-Extensions method for System.Collections.Concurrent.ConcurrentDictionary
-Namespace: Tools.Collections.ConcurrentDictionary.Extensions
-Use: ConcurrentDictionary<TKey, IValueWrapper<TValue>>
+Extensions method for System.Collections.Concurrent.ConcurrentDictionary  
+Namespace: Tools.Collections.Concurrent.Extensions  
+Use: ConcurrentDictionary<TKey, IValueWrapper<TValue>>  
 Description of the mechanism of work: https://stackoverflow.com/questions/39679779/how-to-achieve-remove-if-functionality-in-net-concurrentdictionary
 
 ## Usage example:
