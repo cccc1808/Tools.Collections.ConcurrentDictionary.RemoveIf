@@ -7,9 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "model", "model", "{02C76203
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0137D8AB-7C05-490B-BEC0-3DE5FF382BE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.Collections.ConcurrentDictionary.RemoveIf.Model", "model\Tools.Collections.ConcurrentDictionary.RemoveIf.Model\Tools.Collections.ConcurrentDictionary.RemoveIf.Model.csproj", "{15A1A6AD-95E4-4B08-868A-BEA245469F2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools.Collections.ConcurrentDictionary.RemoveIf.Model", "model\Tools.Collections.ConcurrentDictionary.RemoveIf.Model\Tools.Collections.ConcurrentDictionary.RemoveIf.Model.csproj", "{15A1A6AD-95E4-4B08-868A-BEA245469F2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.Collections.ConcurrentDictionary.RemoveIf.Test.UnitTest", "test\Tools.Collections.ConcurrentDictionary.RemoveIf.Test.UnitTest\Tools.Collections.ConcurrentDictionary.RemoveIf.Test.UnitTest.csproj", "{C567C0EE-0C72-436C-B8CB-315D4BDF3A16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools.Collections.ConcurrentDictionary.RemoveIf.Test.UnitTest", "test\Tools.Collections.ConcurrentDictionary.RemoveIf.Test.UnitTest\Tools.Collections.ConcurrentDictionary.RemoveIf.Test.UnitTest.csproj", "{C567C0EE-0C72-436C-B8CB-315D4BDF3A16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B55B095C-8A95-4139-A3CA-55EB423F8EED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

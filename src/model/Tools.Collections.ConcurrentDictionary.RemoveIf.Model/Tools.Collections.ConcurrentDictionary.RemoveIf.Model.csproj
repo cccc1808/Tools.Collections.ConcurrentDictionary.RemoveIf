@@ -4,9 +4,17 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>cccc1808</Authors>
-    <PackageProjectUrl>https://github.com/cccc1808/Tools.Collections.ConcurrentDictionary.RemoveIf</PackageProjectUrl>
-    <GenerateDocumentationFile>True</GenerateDocumentationFile>
-    <Version>2.0.0</Version>
+    <PackageProjectUrl></PackageProjectUrl>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+    <Version>2.1.0</Version>
+    <IncludeSymbols>True</IncludeSymbols>
+    <RepositoryUrl>https://github.com/cccc1808/Tools.Collections.ConcurrentDictionary.RemoveIf</RepositoryUrl>
+    <PackageId>Tools.Collections.ConcurrentDictionary.RemoveIf</PackageId>
+    <Description>Extensions method for System.Collections.Concurrent.ConcurrentDictionary. Use IValueWrapper for TValue.</Description>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
 
 </Project>
