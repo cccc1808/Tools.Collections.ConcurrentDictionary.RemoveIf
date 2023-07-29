@@ -1,4 +1,4 @@
-# New Document# Tools.Collections.ConcurrentDictionary.RemoveIf
+# Tools.Collections.ConcurrentDictionary.RemoveIf
 ## Description
 Extensions method for System.Collections.Concurrent.ConcurrentDictionary  
 Namespace: Tools.Collections.Concurrent.Extensions  
